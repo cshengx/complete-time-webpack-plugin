@@ -1,6 +1,6 @@
 {
   "name": "complete-time-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a plugin for webpack to show the end of the webpack packing",
   "main": "lib/index.js",
   "scripts": {
