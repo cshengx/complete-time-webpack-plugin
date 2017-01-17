@@ -16,7 +16,7 @@ module.exports = {
     resolve: {},
     module: {},
     externals: {},
-    //just a example, so other ther configurations are empty
+    //just a example, so other configurations are empty
     plugins:[new CompleteTimeWebpackPlugin()]
 };
 ```
