@@ -1,0 +1,19 @@
+{
+  "name": "complete-time-webpack-plugin",
+  "version": "1.0.0",
+  "description": "a plugin for webpack to show the end of the webpack packing",
+  "main": "CompleteTimeWebpackPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcssum/complete-time-webpack-plugin.git"
+  },
+  "author": "xiacs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xcssum/complete-time-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/xcssum/complete-time-webpack-plugin#readme"
+}
